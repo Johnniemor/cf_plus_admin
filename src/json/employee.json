@@ -1,0 +1,40 @@
+{
+    "role": [
+        {
+            "id": "1",
+            "emp_name": "ນາງ ດາລິນ",
+            "emp_position": "Super admin",
+            "emp_address": "ໂພນຕ້ອງສະຫວາດ",
+            "emp_contract": "205231123",
+            "branch": "ວັດນາກ",
+            "created_at": "20/1/2025 - 15:30"
+        },
+        {
+            "id": "2",
+            "emp_name": "ນາງ ດາລິນ",
+            "emp_position": "admin",
+            "emp_address": "ໂພນຕ້ອງສະຫວາດ",
+            "emp_contract": "205231123",
+            "branch": "ວັດນາກ",
+            "created_at": "20/1/2025 - 15:30"
+        },
+        {
+            "id": "3",
+            "emp_name": "ນາງ ດາລິນ",
+            "emp_position": "Manager",
+            "emp_address": "ໂພນຕ້ອງສະຫວາດ",
+            "emp_contract": "205231123",
+            "branch": "ວັດນາກ",
+            "created_at": "20/1/2025 - 15:30"
+        },
+        {
+            "id": "4",
+            "emp_name": "ນາງ ດາລິນ",
+            "emp_position": "Employee",
+            "emp_address": "ໂພນຕ້ອງສະຫວາດ",
+            "emp_contract": "205231123",
+            "branch": "ວັດນາກ",
+            "created_at": "20/1/2025 - 15:30"
+        }
+    ]
+}

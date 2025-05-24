@@ -1,0 +1,37 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "product_name": "macbook",
+            "cf_id": "CF101",
+            "product_img": "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?cs=srgb&dl=pexels-craigmdennis-205421.jpg&fm=jpg",
+            "qty": 1,
+            "product_unit": {
+                "unit": "piece"
+            },
+            "cf_price": 1500000
+        },
+        {
+            "id": "2",
+            "product_name": "i phone X",
+            "cf_id": "CF102",
+            "product_img": "https://www.shopandship.co.za/cdn/shop/files/iPhoneXSG_600x600.jpg?v=1728552900",
+            "qty": 2,
+            "product_unit": {
+                "unit": "piece"
+            },
+            "cf_price": 800000
+        },
+        {
+            "id": "3",
+            "product_name": "Wireless Headphones",
+            "cf_id": "CF103",
+            "product_img": "https://media.wired.com/photos/66abec9ccb172c2e5de763bf/master/w_960,c_limit/Edifier-Stax-Spirit-S5-Headphones-Offwhite-Background-SOURCE-Amazon.jpg",
+            "qty": 1,
+            "product_unit": {
+                "unit": "piece"
+            },
+            "cf_price": 250000
+        }
+    ]
+}
